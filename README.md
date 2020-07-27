@@ -9,16 +9,6 @@ Install this by cloning the repo to your local machine. Pull for updates.
 
 Run this in an IDE like VSCode
 
-| Week | Content |
-| 1    |  -      |
-| 2    |  -      |
-| 3    |  -      |
-| 4    |  -      |
-| 5    |  -      |
-| 6    |  -      |
-| 7    |  -      |
-| 8    |  -      |
-| 9    |  -      |
-| 10   |  -      |
-| 11   |  -      |
-| 12   |  -      |
+Week 1 | Week 2 | Week 3 | Week 4 | Week 5 | Week 6 
+------------ | ------------- | ---------- | --------- | ---------- | -------- | 
+Intro to JavaSCript and NodeJS | Version control with Git and Github | NodeJS as a server | Angular | Data persistence | Reactive programming and sockets
